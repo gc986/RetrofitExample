@@ -38,3 +38,6 @@ captures/
 
 # Keystore files
 *.jks
+Будет удалено app/libs/
+Будет удалено app/src/main/java/ru/gc986/retrofitexample/p/
+Будет удалено app/src/main/res/drawable/
